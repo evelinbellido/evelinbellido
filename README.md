@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @evelinbellido
 - 👀 I’m interested in Front-end deveplopment
-- 🌱 I’m currently learning javascrit
+- 🌱 I’m currently learning javascript
 - 💞️ I’m looking to collaborate on new proyects
 - 📫 How to reach me ...
 
